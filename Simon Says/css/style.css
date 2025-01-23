@@ -20,7 +20,7 @@ body {
   height: 100%;
   display: flex;
   flex-wrap: wrap;
-  transition: 1s;
+  transition: 0.5s;
 }
 
 .box {
